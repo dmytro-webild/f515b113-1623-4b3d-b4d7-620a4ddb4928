@@ -69,7 +69,7 @@ export default function LandingPage() {
           handle: "@alex_sneaks",
           testimonial: "The best selection in the game. Fast shipping and authentic kicks every time.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/sporty-man-tying-his-shoelaces_53876-139586.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sporty-man-tying-his-shoelaces_53876-139586.jpg?_wi=1",
           imageAlt: "modern sneaker studio photography blue background",
         },
         {
@@ -77,7 +77,7 @@ export default function LandingPage() {
           handle: "@jordy_kicks",
           testimonial: "Love the limited releases. My go-to spot for new drops.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-posing-with-high-heels_23-2150225863.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-posing-with-high-heels_23-2150225863.jpg?_wi=1",
           imageAlt: "modern sneaker studio photography blue background",
         },
         {
@@ -85,7 +85,7 @@ export default function LandingPage() {
           handle: "@sam_styles",
           testimonial: "Customer service is top-notch. Sneaker Stop never disappoints.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/pastel-colors-3d-sneakers_23-2151853239.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pastel-colors-3d-sneakers_23-2151853239.jpg?_wi=1",
           imageAlt: "modern sneaker studio photography blue background",
         },
         {
@@ -93,7 +93,7 @@ export default function LandingPage() {
           handle: "@tay_sneaks",
           testimonial: "Everything arrived in perfect condition. Authentic products verified.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-model-jacket-posing-outside_1303-21590.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-model-jacket-posing-outside_1303-21590.jpg?_wi=1",
           imageAlt: "modern sneaker studio photography blue background",
         },
         {
@@ -101,7 +101,7 @@ export default function LandingPage() {
           handle: "@morg_kicks",
           testimonial: "I trust no one else with my collection. Authenticity guaranteed.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/crop-legs-exercising-sidewalk_23-2147755471.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/crop-legs-exercising-sidewalk_23-2147755471.jpg?_wi=1",
           imageAlt: "modern sneaker studio photography blue background",
         },
       ]}
@@ -115,7 +115,7 @@ export default function LandingPage() {
           href: "#about",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/sporty-man-tying-his-shoelaces_53876-139586.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/sporty-man-tying-his-shoelaces_53876-139586.jpg?_wi=2"
       imageAlt="Premium Sneakers Display"
       mediaAnimation="slide-up"
       avatars={[
@@ -176,25 +176,25 @@ export default function LandingPage() {
           id: "p1",
           name: "Minimalist White Classic",
           price: "$120",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-posing-with-high-heels_23-2150225863.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-woman-posing-with-high-heels_23-2150225863.jpg?_wi=2",
         },
         {
           id: "p2",
           name: "Performance High-Top Blue",
           price: "$150",
-          imageSrc: "http://img.b2bpic.net/free-photo/pastel-colors-3d-sneakers_23-2151853239.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/pastel-colors-3d-sneakers_23-2151853239.jpg?_wi=2",
         },
         {
           id: "p3",
           name: "Lifestyle Suede Casual",
           price: "$110",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-model-jacket-posing-outside_1303-21590.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-model-jacket-posing-outside_1303-21590.jpg?_wi=2",
         },
         {
           id: "p4",
           name: "Sleek Black Running",
           price: "$135",
-          imageSrc: "http://img.b2bpic.net/free-photo/crop-legs-exercising-sidewalk_23-2147755471.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/crop-legs-exercising-sidewalk_23-2147755471.jpg?_wi=2",
         },
         {
           id: "p5",
